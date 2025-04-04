@@ -26,3 +26,5 @@ The project is being processed, and I aim to answer the following questions.
 #### Did switching to Zomato Gold benefit me in terms of prices?
 #### How much money did I save using Zomato Gold's discount coupons?
 #### Attempt to predict my spending and my dish preference for the next month
+
+For the detailed Python code with the visualizations, kindly click here: https://github.com/tanindatascience/Personal-Zomato-Order-History/blob/main/Python_Code_v1.ipynb
